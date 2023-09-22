@@ -1,2 +1,3 @@
 # Template-1
-this is my first project as a Front-End
+fully responsive design using:
+HTML & CSS
